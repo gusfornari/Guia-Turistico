@@ -5,8 +5,8 @@ Tour guide for temple trips. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -19,7 +19,7 @@ Tour guide for temple trips. <br/>
   <img alt="project " src="./assets/Thumbnail 3.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed with the following technologies:
 
@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 A Tourist Guide to Busan.
 
