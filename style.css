@@ -30,12 +30,59 @@ body{
   width: 100%;
   height: 1px;
   background-color: #d9d9d9;
+  margin-bottom: 64px;
 }
+
+#title2{
+  margin-bottom: 8px;
+}
+
+#description3{
+  margin-bottom: 64px;
+}
+
+#godfor{
+  margin-bottom: 48px;
+}
+
+#img3{
+  margin-bottom: 20px;
+}
+
+#contentcard2{
+  margin-bottom: 48px;
+}
+
+#img4{
+  margin-bottom: 20px;
+}
+
+
 
 .divider2 {
   width: 100%;
   height: 1px;
   background-color: #d9d9d9;
+  margin: 40px 0px;
 }
+
+#contentlist {
+  display: flex;
+  flex-direction: column;
+}
+
+#image2 {
+  margin-bottom: 20px;
+}
+
+footer{
+  margin-top: 65px;
+  text-align: center;
+}
+
+
+
+
+
 
 
